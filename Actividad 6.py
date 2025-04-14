@@ -130,6 +130,7 @@ def mostrar_jugadores():
                 jugador.mostrar_informacion()
         print("-----------------------------")
             
+#aksjdkasjdas
 
 
 def Menu():
