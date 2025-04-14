@@ -54,7 +54,7 @@ lista_jugadores = []
 
 #Metodo de menu para ingresar un jugador
 def ingresar_jugador():
-    global dc, mc, df, arq, lista_jugadores
+    global lista_jugadores
     salir = False
     while salir == False:
         print("En que posición juega el jugador?")
