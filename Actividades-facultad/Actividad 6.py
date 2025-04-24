@@ -162,3 +162,5 @@ def Menu():
             print("Saliendo del programa.")
             salirMenu = True
 
+Menu()
+#Fin del programa
