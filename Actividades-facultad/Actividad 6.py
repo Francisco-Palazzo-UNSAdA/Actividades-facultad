@@ -109,7 +109,8 @@ def ingresar_jugador():
                 lista_jugadores = []
                 lista_jugadores.append(nuevo_jugador)
             else:
-                lista_jugadores.append(nuevo_jugador)  
+                lista_jugadores.append(nuevo_jugador)
+            return print("Jugador ingresado correctamente.")  
         else:
             print("Volviendo al menú principal...")
             salir = True
