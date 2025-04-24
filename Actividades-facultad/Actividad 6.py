@@ -162,10 +162,3 @@ def Menu():
             print("Saliendo del programa.")
             salirMenu = True
 
-#Definimos el main
-def main():
-    if __name__ == "__main__":
-        #Llamamos al metodo menu para que se ejecute al iniciar el programa
-        Menu()
-#Llamamos al main para dar inicio al programa
-main()
